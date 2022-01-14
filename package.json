@@ -1,0 +1,35 @@
+{
+  "name": "config.cf",
+  "version": "1.0.0",
+  "description": "The new .cf file. Have some many feautures.",
+  "main": "Config.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minco-inc/config.cf.git"
+  },
+  "keywords": [
+    "config",
+    "cf",
+    "file",
+    "fs",
+    "reader",
+    "parser",
+    "section",
+    "category",
+    "options",
+    "option",
+    "sections"
+  ],
+  "bin": {
+      "cf": "cf.js"
+  },
+  "author": "Minco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Minco-inc/config.cf/issues"
+  },
+  "homepage": "https://github.com/Minco-inc/config.cf#readme"
+}
