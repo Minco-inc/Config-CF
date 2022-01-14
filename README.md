@@ -88,6 +88,7 @@ CF.cli will ask like:
 
 ## Future Updates
 - Read function: `Config.read('config.cf')`
+- Backslash and quotes for filename.
 - And some performance improvements!
 
 ## Issues
